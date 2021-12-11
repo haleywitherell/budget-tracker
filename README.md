@@ -4,7 +4,7 @@
 
 See a short description of my project below.
 
-For this assignment i worked to set up the backend side of a budget tracker app. 
+For this assignment i worked to set up the backend side of a budget tracker app. The app has an offline feature that will track chnages made when you are offline and add changes to the app when you go back online. 
 
 ## Installation Instructions
 
