@@ -32,7 +32,4 @@ router.get("/api/transaction", (req, res) => {
 });
 
 
-//1 html 
-
-
 module.exports = router;
